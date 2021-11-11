@@ -9,6 +9,9 @@ Replace the Project Title
 ### Description
 Describe what your project is about and what it does
 
+This project helps give an introduction to Version Control and how to 
+work with local and remote repositories.
+
 ### Files used
 Include the files used
 
