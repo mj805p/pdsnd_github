@@ -3,7 +3,7 @@
 ### Date created: November 11, 2011
 Include the date you created this project and README file.
 
-### Project Title
+### Project Title: Udacity Project: Intro to Version Control
 Replace the Project Title
 
 ### Description
